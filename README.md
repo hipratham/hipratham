@@ -30,9 +30,6 @@
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
-  <a href="https://www.kaggle.com/pratham11111123" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" height="40" alt="Kaggle" style="margin: 10px; transition: transform 0.3s;"/>
-  </a>
   <a href="https://www.instagram.com/pratham__hi/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="Instagram" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
