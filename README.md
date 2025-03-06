@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @hipratham  
+# 👋 Hi, I’m Pratham
 - 👀 I’m interested in building projects, especially in web development, AI, and cloud computing.  
 - 🌱 I’m currently learning AWS and DevOps to enhance my cloud computing skills.  
 - 💞️ I’m looking to collaborate on web applications, AI-powered projects, and cloud-based solutions.  
