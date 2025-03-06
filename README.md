@@ -25,24 +25,31 @@
 ## 🌎 Connect with Me
 <p align="center">
   <a href="https://twitter.com/prathamzer0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
   <a href="https://www.kaggle.com/pratham11111123" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="40" />
+    <img src="https://skillicons.dev/icons?i=kaggle" height="40" alt="Kaggle" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
   <a href="https://www.instagram.com/pratham__hi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
   <a href="https://www.youtube.com/@prathamknight" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40" />
+    <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
   <a href="https://discord.gg/devilsknightt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
 </p>
+
+<style>
+  a:hover img {
+    transform: scale(1.2);
+  }
+</style>
+
 
 ---
 
