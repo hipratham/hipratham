@@ -60,9 +60,11 @@
 ---
 
 ## 🎮 Fun Zone
+## 🎮 Fun Zone
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&width=500&lines=I+love+solving+problems!+🚀;AI+is+my+superpower!+🤖;Debugging+is+my+cardio+💪;I+write+code+to+avoid+being+social+😅;Code+is+like+life,+it+needs+to+be+compiled+first!+💻;Will+work+for+coffee+☕️;I+turn+coffee+into+code+☕️💻;Happiness+is+finding+a+bug+and+fixing+it!+😁;Life+is+too+short+for+bad+code!+⚡" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&width=500&lines=I+am+an+AI+whisperer+🧠;My+code+compiles+on+the+first+try+...+Just+Kidding!+😜;Code+is+like+a+chocolate+bar+🍫;I+don%27t+debug,+I+solve+cases+🕵️‍♂️;My+keyboard+is+my+weapon+⚔️;Every+bug+is+a+new+adventure+🎢;I+write+code+faster+than+I+think+😎;If+I+were+an+algorithm,+I%27d+be+a+search+function+🔍;I+can%27t+promise+you+the+world,+but+I+can+promise+you+clean+code+🌍;Ctrl+C+and+Ctrl+V+are+my+best+friends+🤝;" />
 </p>
+
 
 
 ---
