@@ -59,7 +59,7 @@
 
 ---
 
-## 🎮 Fun Zone
+
 ## 🎮 Fun Zone
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&width=500&lines=I+am+an+AI+whisperer+🧠;My+code+compiles+on+the+first+try+...+Just+Kidding!+😜;Code+is+like+a+chocolate+bar+🍫;I+don%27t+debug,+I+solve+cases+🕵️‍♂️;My+keyboard+is+my+weapon+⚔️;Every+bug+is+a+new+adventure+🎢;I+write+code+faster+than+I+think+😎;If+I+were+an+algorithm,+I%27d+be+a+search+function+🔍;I+can%27t+promise+you+the+world,+but+I+can+promise+you+clean+code+🌍;Ctrl+C+and+Ctrl+V+are+my+best+friends+🤝;" />
