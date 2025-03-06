@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently diving deep into **AWS & DevOps**  
 - 🎯 I love **building intelligent systems with AI & LLMs**  
-- 🔥 I specialize in **Python, Flask, Django, Cloud, and Frontend Magic**  
+- 🔥 I specialize in **Python, Flask, Django, and Frontend Magic**  
 - 📫 Reach me at **itss.pratham24@gmail.com**  
 - 📄 Check my portfolio: [prathamrm.com.np](https://prathamrm.com.np/)  
 
@@ -53,9 +53,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hipratham&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hipratham&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -63,10 +60,8 @@
 
 ## 🎮 Fun Zone
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&width=500&lines=I+love+solving+problems!+🚀;AI+is+my+superpower!+🤖;DevOps+brings+everything+together!+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&width=500&lines=I+love+solving+problems!+🚀;AI+is+my+superpower!+🤖;" />
 </p>
 
 ---
 
-### 🌟 **Profile Visitors**
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hipratham)
