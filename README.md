@@ -60,7 +60,7 @@
 ---
 
 ## 🎮 Fun Zone
-<p align="center">
+<p align="center" style="font-size:20px;">
   🚀 **I love solving problems!**  
   🤖 **AI is my superpower!**  
   💻 **DevOps brings everything together!**
@@ -70,3 +70,13 @@
 
 ### 🌟 **Profile Visitors**
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hipratham)
+
+---
+
+## 📈 Latest Projects
+Here are some of my latest projects with **interactive elements**:
+- [Portfolio Website](https://prathamrm.com.np)
+- [Tech News Generator](https://github.com/hipratham/tech-news-generator)
+- [Inventory System](https://github.com/hipratham/inventory-system)
+
+---
