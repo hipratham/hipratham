@@ -9,12 +9,12 @@
 
 ## 🚀 About Me
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Cloud+%7C+AI+%7C+DevOps+%7C+Full-Stack;Always+learning+new+things...+🌱;Debugging+is+like+being+a+detective!+🕵️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Always+learning+new+things...+🌱;Debugging+is+like+being+a+detective!+🕵️" alt="Typing SVG" />
 </p>
 
 - 🌱 I’m currently diving deep into **AWS & DevOps**  
 - 🎯 I love **building intelligent systems with AI & LLMs**  
-- 🔥 I specialize in **Python, Flask, Django, and Frontend Magic**  
+- 🔥 I specialize in **Python, Flask, and Frontend Magic**  
 - 📫 Reach me at **itss.pratham24@gmail.com**  
 - 📄 Check my portfolio: [prathamrm.com.np](https://prathamrm.com.np/)  
 
