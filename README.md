@@ -2,7 +2,7 @@
 ### 🚀 Passionate IT Guy from Nepal 🌏
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI1c25wcjQxN3hjc2ZhYm84d2Z1emxubWF5bDZ3OWtuZTM2MWoxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="500" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.8);"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdpNDZnMzk4aXU4bGo5bm8xaWE2bDMyYjUzYWdydGlzajliZTNlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="500" style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.8);"/>
 </div>
 
 ---
