@@ -27,7 +27,7 @@
   <a href="https://twitter.com/prathamzer0" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="40" alt="Twitter" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/pratham-r-55060327a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
   <a href="https://www.instagram.com/pratham__hi/" target="_blank">
@@ -36,7 +36,7 @@
   <a href="https://www.youtube.com/@prathamknight" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" height="40" alt="YouTube" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
-  <a href="https://discord.gg/devilsknightt" target="_blank">
+  <a href="https://discord.gg/ncUtKUzZ" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="40" alt="Discord" style="margin: 10px; transition: transform 0.3s;"/>
   </a>
 </p>
