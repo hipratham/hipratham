@@ -9,8 +9,9 @@
 
 ## 🚀 About Me
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Always+debugging+...+🔍;Code+is+like+life,+it+needs+to+be+compiled+first!+💻;Will+work+for+coffee+☕️;AI+is+my+robot+sidekick!+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=false&width=600&lines=Debugging+is+my+cardio+💪;I+write+code+to+avoid+being+social+😅;My+bug+reports+are+better+than+my+life+updates+📝;Code+like+no+one+is+watching+👀;I+turn+coffee+into+code+☕️💻" alt="Typing SVG" />
 </p>
+
 
 
 - 🌱 I’m currently diving deep into **AWS & DevOps**  
