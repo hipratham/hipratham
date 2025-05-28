@@ -61,8 +61,8 @@ class QAEngineer:
 - **Manual Testing**: Web, Mobile, API
 - **Automation**: Selenium, Cypress, Playwright
 - **API Testing**: Postman, REST Assured
-- **Performance**: JMeter, LoadRunner
-- **Bug Tracking**: Jira, Bugzilla, Azure DevOps
+- **Performance**: JMeter, K6
+- **Bug Tracking**: Jira
 
 </td>
 <td width="50%" valign="top">
