@@ -19,6 +19,10 @@
 
 ## <div align="center">🎯 **QA ENGINEER & WEB DEVELOPER** 🎯</div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="426" height="426"/>
+</div>
+
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td width="50%" valign="top">
@@ -96,122 +100,74 @@ console.log("Ready to ensure quality! 🚀");
 
 ---
 
-## <div align="center">🎮 **INTERACTIVE ZONE - PLAY WHILE YOU'RE HERE!** 🎮</div>
+## <div align="center">💼 **WHY HIRE ME?** 💼</div>
 
 <div align="center">
 
-### 🕹️ **MINI GAMES FOR VISITORS**
+### 🏆 **PROFESSIONAL HIGHLIGHTS**
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-#### 🎯 **Bug Hunt Challenge**
+#### 🎯 **TESTING EXCELLENCE**
 ```
-🐛 Find the bug in this code:
-
-function calculateAge(birthYear) {
-    const currentYear = 2024;
-    return currentYear - birthYear;
-}
-
-// Hint: What about leap years? 🤔
+✅ 4+ Years Experience
+✅ Manual & Automation Expert
+✅ Bug Detection Rate: 95%+
+✅ Test Case Coverage: 100%
 ```
-**Answer**: Missing validation for future birth years!
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-#### 🧩 **QA Riddle**
+#### 🚀 **TECHNICAL VERSATILITY**
 ```
-I exist when code is written,
-I hide in plain sight,
-I cause users frustration,
-But make testers delight.
-What am I?
-
-🤔 Think you know?
+✅ Full-Stack Understanding
+✅ API Testing Specialist  
+✅ Performance Optimization
+✅ CI/CD Integration
 ```
-**Answer**: A Bug! 🐛
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-#### 🎲 **Random Test Case Generator**
-```javascript
-const testCases = [
-    "Test with empty input ⚪",
-    "Test with special characters !@#$",
-    "Test with maximum length 📏", 
-    "Test with negative numbers ➖",
-    "Test with SQL injection 💉"
-];
-
-// Click refresh to get a new test case!
+#### 💡 **BUSINESS VALUE**
+```
+✅ Reduced Production Bugs by 80%
+✅ Faster Release Cycles
+✅ Improved User Experience
+✅ Cost-Effective Solutions
 ```
 
 </td>
 </tr>
 </table>
 
-### 🏆 **INTERACTIVE TESTING QUIZ**
-> **Question**: What's the difference between Smoke Testing and Sanity Testing?
-> 
-> **A)** Smoke is broader, Sanity is narrow-focused ✅  
-> **B)** They're the same thing  
-> **C)** Sanity is broader, Smoke is narrow-focused  
-> **D)** Only done by automation  
+### 📈 **CORE COMPETENCIES**
 
-</div>
-
----
-
-## <div align="center">🛠️ **TECH STACK & TOOLS** 🛠️</div>
-
-<div align="center">
-
-### **🔍 QA & Testing Tools**
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-DC143C?style=for-the-badge&logo=testing-library&logoColor=white)
-
-### **💻 Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### **🚀 Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **🗄️ Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## <div align="center">📊 **GITHUB INSIGHTS** 📊</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hipratham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hipratham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&border_radius=10)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hipratham&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=45B7D1&currStreakLabel=4ECDC4&border_radius=10)
-
-### 🏆 **ACHIEVEMENTS**
-![Trophy](https://github-profile-trophy.vercel.app/?username=hipratham&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=5&margin-h=5)
+```mermaid
+mindmap
+  root((QA Expert))
+    Testing Types
+      Manual Testing
+      Automation Testing
+      API Testing
+      Performance Testing
+      Security Testing
+    Technical Skills
+      Web Development
+      Database Management
+      CI/CD Pipeline
+      Bug Tracking
+      Test Documentation
+    Soft Skills
+      Problem Solving
+      Attention to Detail
+      Communication
+      Team Collaboration
+      Continuous Learning
+```
 
 </div>
 
@@ -221,7 +177,7 @@ const testCases = [
 
 <div align="center">
 
-### 📬 **OPEN FOR QA OPPORTUNITIES**
+### 📬 **READY TO ENSURE YOUR SOFTWARE QUALITY**
 
 <a href="https://prathamrm.com.np" target="_blank">
   <img src="https://img.shields.io/badge/🌍_Portfolio-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000000" height="45"/>
@@ -247,72 +203,60 @@ const testCases = [
 
 ---
 
-## <div align="center">🎨 **FUN DEVELOPER ZONE** 🎨</div>
+## <div align="center">🔥 **CURRENT MISSION** 🔥</div>
 
 <div align="center">
 
-### 🎭 **QA HUMOR CORNER**
+### 🎯 **SEEKING QA ENGINEER OPPORTUNITIES**
 
 ```javascript
-// A QA Engineer's daily life
-class QALife {
-    constructor() {
-        this.motto = "It's not a bug, it's an undocumented feature! 😄";
-        this.favoritePhrase = "Works on my machine! 🤷‍♂️";
-        this.superpower = "Breaking things that 'should work' 💥";
-    }
-    
-    qaJokes() {
-        return [
-            "99 bugs in the code, 99 bugs... fix one bug, compile again, 117 bugs in the code! 🐛",
-            "A QA engineer walks into a bar. Orders 1 beer. Orders 0 beers. Orders -1 beers. Orders 99999999 beers. 🍺",
-            "Why do QA engineers make great detectives? They always find what's missing! 🕵️",
-            "I don't always test my code, but when I do, I do it in production! 😱"
-        ];
-    }
-}
+const careerGoal = {
+    position: "QA Engineer / Test Automation Engineer",
+    location: "Remote / Hybrid / On-site",
+    focus: [
+        "Manual & Automation Testing",
+        "API & Performance Testing", 
+        "Quality Assurance Leadership",
+        "Test Strategy & Planning"
+    ],
+    readyToStart: "Immediately",
+    commitment: "Long-term growth partnership"
+};
 
-const qaEngineer = new QALife();
-console.log("Quality is not an accident! 🎯");
+// Let's build quality software together! 🚀
 ```
-
-### 🔥 **CURRENT MISSION**
-> **"Seeking QA Engineer roles where I can put my bug-hunting skills to work!**  
-> **Ready to ensure your software is bulletproof! 🛡️"**
 
 ### 📈 **TESTING PHILOSOPHY**
 ```
-🎯 Test Early, Test Often
-🔍 Question Everything  
-🐛 Every Bug is a Learning Opportunity
-⚡ Quality is Everyone's Responsibility
-🚀 Automation Enhances, Never Replaces, Manual Testing
+🎯 Quality is not an accident - it's a habit
+🔍 Prevention is better than detection
+🐛 Every bug is a learning opportunity
+⚡ Continuous improvement drives excellence  
+🚀 Collaboration creates bulletproof software
 ```
+
+### 💪 **WHAT I BRING TO YOUR TEAM**
+- **Quality Mindset**: Zero-compromise approach to software quality
+- **Technical Expertise**: Full-stack testing capabilities
+- **Problem Solving**: Creative solutions to complex testing challenges
+- **Team Player**: Collaborative approach with developers and stakeholders
+- **Continuous Learning**: Always staying updated with latest testing trends
+
+</div>
 
 ---
 
-### 🎪 **VISITOR SURPRISE**
-<details>
-<summary>🎁 Click here for a special message!</summary>
+<div align="center">
 
-```
- ╔══════════════════════════════════════╗
- ║  🎉 CONGRATULATIONS! 🎉              ║
- ║                                      ║
- ║  You found the hidden Easter egg!    ║
- ║  You have the curiosity of a great   ║
- ║  QA Engineer! 🕵️‍♂️                    ║
- ║                                      ║
- ║  Thanks for checking out my profile! ║
- ║  Let's connect and build quality     ║
- ║  software together! 🤝               ║
- ╚══════════════════════════════════════╝
-```
+### 🤝 **LET'S DISCUSS YOUR TESTING NEEDS**
 
-</details>
+> **"Ready to ensure your software meets the highest quality standards?**  
+> **Let's connect and discuss how I can contribute to your team's success!"**
+
+**Available for**: Full-time positions, Contract work, Consulting
+
+</div>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:45B7D1,100:FF6B6B&height=120&section=footer&text=Let's%20Build%20Quality%20Software%20Together!%20🚀&fontSize=20&fontColor=fff&animation=twinkling"/>
-
-</div>
