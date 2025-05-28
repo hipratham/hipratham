@@ -21,26 +21,13 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="426" height="426"/>
-
-### 🚀 **TRANSFORMING CODE INTO BULLETPROOF SOFTWARE**
-<img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bug%20Detection-95%25%2B-critical?style=for-the-badge&logo=bugsnag&logoColor=white"/>
-<img src="https://img.shields.io/badge/Test%20Coverage-100%25-brightgreen?style=for-the-badge&logo=codecov&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Available%20for%20Hire-blueviolet?style=for-the-badge&logo=handshake&logoColor=white"/>
-
 </div>
 
-<div align="center">
-
-## 🏆 **PROFESSIONAL EXPERTISE SHOWCASE** 🏆
-
-</div>
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="50%" valign="top" style="padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; margin: 10px;">
+<td width="50%" valign="top">
 
-### <div align="center">🔍 **TESTING MASTERY** 🔍</div>
+### 🔍 **TESTING EXPERTISE**
 
 ```python
 class QAEngineer:
@@ -48,385 +35,209 @@ class QAEngineer:
         self.name = "Pratham"
         self.role = "QA Engineer & Web Developer"
         self.location = "Nepal 🏔️"
-        self.experience = "4+ Years"
         self.specialties = [
             "Manual Testing 🕵️",
-            "Automation Testing 🤖", 
+            "Automation Testing 🤖",
             "API Testing 🔌",
             "Performance Testing ⚡",
             "Web Development 💻"
         ]
-        self.status = "🎯 AVAILABLE FOR HIRE"
+        self.job_status = "Actively Seeking QA Roles! 🎯"
     
-    def testing_philosophy(self):
-        return "Quality is not negotiable! 💎"
+    def test_mindset(self):
+        return "If it can break, I'll find how! 💥"
     
-    def value_proposition(self):
+    def daily_mission(self):
         return [
-            "🎯 95%+ Bug Detection Rate",
-            "⚡ 80% Faster Test Execution", 
-            "💰 Reduced Production Costs",
-            "🚀 Accelerated Release Cycles",
-            "🛡️ Enhanced User Experience"
+            "Hunt bugs like a detective 🔍",
+            "Write test cases that matter 📝",
+            "Automate repetitive tasks 🤖",
+            "Build quality web apps 🌐",
+            "Learn new testing tools 📚"
         ]
 ```
 
-<div align="center">
-
-**🛠️ TESTING TECHNOLOGIES**
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-Expert-success?style=flat-square&logo=checkmarx)
-![Selenium](https://img.shields.io/badge/Selenium-Advanced-brightgreen?style=flat-square&logo=selenium)
-![Cypress](https://img.shields.io/badge/Cypress-Proficient-blue?style=flat-square&logo=cypress)
-![API Testing](https://img.shields.io/badge/API_Testing-Expert-orange?style=flat-square&logo=postman)
-![Performance](https://img.shields.io/badge/Performance-Advanced-red?style=flat-square&logo=apache)
-
-</div>
+### 🛠️ **TESTING ARSENAL**
+- **Manual Testing**: Web, Mobile, API
+- **Automation**: Selenium, Cypress, Playwright
+- **API Testing**: Postman, REST Assured
+- **Performance**: JMeter, LoadRunner
+- **Bug Tracking**: Jira, Bugzilla, Azure DevOps
 
 </td>
-<td width="50%" valign="top" style="padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; margin: 10px;">
+<td width="50%" valign="top">
 
-### <div align="center">🌐 **DEVELOPMENT EXCELLENCE** 🌐</div>
+### 🌐 **WEB DEVELOPMENT SKILLS**
 
 ```javascript
-const fullStackQA = {
-    expertise: "QA + Full-Stack Development",
-    yearsOfExperience: "4+",
-    
+const webDeveloper = {
     frontend: {
-        core: ["HTML5", "CSS3", "JavaScript ES6+"],
+        languages: ["HTML5", "CSS3", "JavaScript", "PHP"],
         frameworks: ["React", "Vue.js", "Bootstrap"],
-        styling: ["TailwindCSS", "Sass", "Responsive Design"],
-        testing: ["Jest", "Cypress", "Selenium"]
+        styling: ["TailwindCSS", "Sass", "Responsive Design"]
     },
-    
     backend: {
         languages: ["Python", "PHP", "Node.js"],
         frameworks: ["Django", "Flask", "Express.js"],
-        databases: ["MySQL", "MongoDB", "PostgreSQL"],
-        testing: ["PyTest", "Postman", "REST Assured"]
+        databases: ["MySQL", "MongoDB", "PostgreSQL"]
     },
-    
-    devOps: ["Docker", "AWS", "CI/CD", "Jenkins"],
-    
-    getCurrentFocus: () => {
-        return "Building quality-first applications! 🚀"
-    }
+    testing: {
+        tools: ["Jest", "Mocha", "Selenium", "Cypress"],
+        types: ["Unit", "Integration", "E2E", "API"]
+    },
+    currentlyLearning: ["AWS", "DevOps", "Test Automation"]
 };
 
-console.log("Full-Stack QA Engineer Ready! 💪");
+console.log("Ready to ensure quality! 🚀");
 ```
 
-<div align="center">
-
-**💻 DEVELOPMENT STACK**
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-Proficient-cyan?style=flat-square&logo=react)
-![Django](https://img.shields.io/badge/Django-Advanced-green?style=flat-square&logo=django)
-![MySQL](https://img.shields.io/badge/MySQL-Expert-blue?style=flat-square&logo=mysql)
-
-</div>
+### 🎯 **CAREER OBJECTIVE**
+**Seeking QA Engineer positions** where I can combine my testing expertise with web development skills to deliver bulletproof software!
 
 </td>
 </tr>
 </table>
 
-<div align="center" style="margin-top: 30px;">
-
-### 🎯 **MISSION STATEMENT**
-> **"Delivering bulletproof software through comprehensive testing strategies and full-stack development expertise.  
-> Committed to quality, innovation, and exceeding client expectations."**
-
-</div>
-
 ---
 
-## <div align="center">💎 **WHY CHOOSE ME AS YOUR QA ENGINEER?** 💎</div>
+## <div align="center">💼 **WHY HIRE ME?** 💼</div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Proven+Track+Record+%F0%9F%8F%86;Quality-First+Mindset+%F0%9F%8E%AF;Ready+to+Make+Impact+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
-### 🌟 **COMPETITIVE ADVANTAGES**
+### 🏆 **PROFESSIONAL HIGHLIGHTS**
 
 <table width="100%">
 <tr>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px;">
-
-#### 🎯 **TESTING PRECISION**
+#### 🎯 **TESTING EXCELLENCE**
 ```
-📊 Bug Detection: 95%+
-⚡ Test Coverage: 100%
-🔄 Automation Rate: 85%
-📈 Efficiency Boost: 200%
+✅ 4+ Years Experience
+✅ Manual & Automation Expert
+✅ Bug Detection Rate: 95%+
+✅ Test Case Coverage: 100%
 ```
-
-</div>
 
 </td>
-<td width="25%" align="center">
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 10px;">
+<td width="33%" align="center">
 
 #### 🚀 **TECHNICAL VERSATILITY**
 ```
-🌐 Full-Stack Knowledge
-🔌 API Testing Expert  
-⚡ Performance Specialist
-🤖 Automation Guru
+✅ Full-Stack Understanding
+✅ API Testing Specialist  
+✅ Performance Optimization
+✅ CI/CD Integration
 ```
-
-</div>
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; margin: 10px;">
-
-#### 💰 **BUSINESS IMPACT**
+#### 💡 **BUSINESS VALUE**
 ```
-📉 80% Fewer Production Bugs
-⏱️ 50% Faster Release Cycles
-💡 Cost-Effective Solutions
-😊 Enhanced User Satisfaction
+✅ Reduced Production Bugs by 80%
+✅ Faster Release Cycles
+✅ Improved User Experience
+✅ Cost-Effective Solutions
 ```
-
-</div>
-
-</td>
-<td width="25%" align="center">
-
-<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 10px;">
-
-#### 🤝 **COLLABORATION SKILLS**
-```
-👥 Cross-functional Teams
-📝 Clear Documentation
-💬 Stakeholder Communication  
-🎓 Knowledge Sharing
-```
-
-</div>
 
 </td>
 </tr>
 </table>
 
-<div align="center" style="margin-top: 30px;">
+### 📈 **CORE COMPETENCIES**
 
-### 📋 **COMPREHENSIVE SKILL MATRIX**
-
-| **Testing Types** | **Proficiency** | **Tools & Technologies** | **Experience** |
-|:-----------------:|:---------------:|:------------------------:|:--------------:|
-| Manual Testing | ⭐⭐⭐⭐⭐ | Web, Mobile, API | 4+ Years |
-| Automation Testing | ⭐⭐⭐⭐⭐ | Selenium, Cypress, Playwright | 3+ Years |
-| API Testing | ⭐⭐⭐⭐⭐ | Postman, REST Assured, Insomnia | 4+ Years |
-| Performance Testing | ⭐⭐⭐⭐ | JMeter, LoadRunner, K6 | 2+ Years |
-| Security Testing | ⭐⭐⭐⭐ | OWASP, Burp Suite, ZAP | 2+ Years |
-| Database Testing | ⭐⭐⭐⭐⭐ | MySQL, MongoDB, PostgreSQL | 3+ Years |
-
-</div>
-
-<div align="center" style="margin-top: 30px;">
-
-### 🎖️ **PROFESSIONAL CERTIFICATIONS & ACHIEVEMENTS**
-
-![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-brightgreen?style=for-the-badge&logo=certificate&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-blue?style=for-the-badge&logo=agile&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**🏆 Key Achievements:**
-- Implemented automated testing framework reducing manual effort by 70%
-- Led quality assurance for 15+ successful project deliveries
-- Mentored junior QA engineers in best practices and methodologies
-- Established CI/CD pipelines improving deployment frequency by 300%
+```mermaid
+mindmap
+  root((QA Expert))
+    Testing Types
+      Manual Testing
+      Automation Testing
+      API Testing
+      Performance Testing
+      Security Testing
+    Technical Skills
+      Web Development
+      Database Management
+      CI/CD Pipeline
+      Bug Tracking
+      Test Documentation
+    Soft Skills
+      Problem Solving
+      Attention to Detail
+      Communication
+      Team Collaboration
+      Continuous Learning
+```
 
 </div>
 
 ---
 
-## <div align="center">🌐 **LET'S BUILD QUALITY SOFTWARE TOGETHER** 🌐</div>
+## <div align="center">🌐 **LET'S CONNECT & COLLABORATE** 🌐</div>
 
 <div align="center">
 
-### 📬 **READY TO ELEVATE YOUR TESTING STRATEGY?**
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px;">
-
-#### 🔥 **CONTACT ME FOR IMMEDIATE IMPACT**
+### 📬 **READY TO ENSURE YOUR SOFTWARE QUALITY**
 
 <a href="https://prathamrm.com.np" target="_blank">
-  <img src="https://img.shields.io/badge/🌍_Portfolio_Website-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000000" height="50"/>
+  <img src="https://img.shields.io/badge/🌍_Portfolio-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000000" height="45"/>
 </a>
-<br><br>
 <a href="mailto:itss.pratham24@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/📧_HIRE_ME_NOW-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000" height="50"/>
+  <img src="https://img.shields.io/badge/📧_HIRE_ME-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000" height="45"/>
 </a>
-
-</div>
-
-### 🤝 **CONNECT WITH ME ON**
-
-<div style="margin: 20px 0;">
 
 <a href="https://www.linkedin.com/in/pratham-r-55060327a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 <a href="https://twitter.com/prathamzer0" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40"/>
 </a>
 <a href="https://www.youtube.com/@prathamknight" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
 </a>
 <a href="https://discord.gg/ncUtKUzZ" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="45"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
 </a>
-
-</div>
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 20px;">
-
-### 💬 **WHAT CLIENTS SAY**
-
-> *"Pratham's attention to detail and comprehensive testing approach helped us deliver a flawless product launch."*  
-> **— Development Team Lead**
-
-> *"His automation framework reduced our testing time by 70% while improving coverage significantly."*  
-> **— Project Manager**
-
-> *"Professional, reliable, and always exceeds expectations. Highly recommend for any QA role."*  
-> **— Technical Director**
-
-</div>
 
 </div>
 
 ---
 
-## <div align="center">🎯 **SEEKING EXCEPTIONAL QA OPPORTUNITIES** 🎯</div>
+## <div align="center">🔥 **CURRENT MISSION** 🔥</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Available+for+Immediate+Start+%F0%9F%9A%80;Remote+%7C+Hybrid+%7C+On-site+%F0%9F%8C%8D;Long-term+Partnership+Focused+%F0%9F%A4%9D" alt="Availability Status" />
-
-</div>
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px;">
-
-### 🎖️ **IDEAL ROLE PREFERENCES**
+### 🎯 **SEEKING QA ENGINEER OPPORTUNITIES**
 
 ```javascript
-const idealOpportunity = {
-    positions: [
-        "Senior QA Engineer",
-        "Test Automation Engineer", 
-        "QA Team Lead",
-        "Full-Stack QA Engineer"
+const careerGoal = {
+    position: "QA Engineer / Test Automation Engineer",
+    location: "Remote / Hybrid / On-site",
+    focus: [
+        "Manual & Automation Testing",
+        "API & Performance Testing", 
+        "Quality Assurance Leadership",
+        "Test Strategy & Planning"
     ],
-    
-    workArrangement: {
-        remote: "✅ Preferred",
-        hybrid: "✅ Open to discuss", 
-        onsite: "✅ Location dependent"
-    },
-    
-    companyTypes: [
-        "Tech Startups 🚀",
-        "Product Companies 💡",
-        "Digital Agencies 🎨", 
-        "SaaS Platforms ☁️"
-    ],
-    
-    techStackPreference: [
-        "Modern Testing Frameworks",
-        "Cloud-based Applications",
-        "API-first Architecture",
-        "Agile/DevOps Environment"
-    ],
-    
-    commitment: "Long-term partnership & growth",
-    availability: "Immediate start possible",
-    
-    getValue: () => {
-        return "Quality-driven results from day one! 💎"
-    }
+    readyToStart: "Immediately",
+    commitment: "Long-term growth partnership"
 };
 
-console.log("Ready to make your software bulletproof! 🛡️");
+// Let's build quality software together! 🚀
 ```
 
-</div>
+### 📈 **TESTING PHILOSOPHY**
+```
+🎯 Quality is not an accident - it's a habit
+🔍 Prevention is better than detection
+🐛 Every bug is a learning opportunity
+⚡ Continuous improvement drives excellence  
+🚀 Collaboration creates bulletproof software
+```
 
-<div align="center" style="margin-top: 30px;">
-
-### 🌟 **CORE TESTING PRINCIPLES**
-
-<table width="100%">
-<tr>
-<td width="20%" align="center">
-
-**🎯 PRECISION**  
-*Every test case matters*
-
-</td>
-<td width="20%" align="center">
-
-**⚡ EFFICIENCY**  
-*Automate repetitive tasks*
-
-</td>
-<td width="20%" align="center">
-
-**🔍 THOROUGHNESS**  
-*Leave no bug unfound*
-
-</td>
-<td width="20%" align="center">
-
-**🚀 INNOVATION**  
-*Embrace new methodologies*
-
-</td>
-<td width="20%" align="center">
-
-**🤝 COLLABORATION**  
-*Quality is everyone's job*
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center" style="margin-top: 30px;">
-
-### 💪 **IMMEDIATE VALUE PROPOSITION**
-
-> **"From Day 1, I bring:**
-> - Comprehensive test strategy assessment
-> - Immediate bug identification and resolution  
-> - Automation framework setup and implementation
-> - Team collaboration and knowledge transfer
-> - Quality process optimization"**
-
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; margin: 20px;">
-
-#### 📞 **READY TO DISCUSS YOUR TESTING NEEDS?**
-
-**Let's schedule a call to explore how I can contribute to your team's success!**
-
-🗓️ **Available for interviews:** Flexible scheduling  
-💼 **Portfolio Review:** Comprehensive case studies available  
-🔧 **Technical Assessment:** Ready for any coding challenges  
-📋 **References:** Professional recommendations upon request
-
-</div>
-
-</div>sting capabilities
+### 💪 **WHAT I BRING TO YOUR TEAM**
+- **Quality Mindset**: Zero-compromise approach to software quality
+- **Technical Expertise**: Full-stack testing capabilities
 - **Problem Solving**: Creative solutions to complex testing challenges
 - **Team Player**: Collaborative approach with developers and stakeholders
 - **Continuous Learning**: Always staying updated with latest testing trends
