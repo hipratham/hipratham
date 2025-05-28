@@ -1,65 +1,94 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=PRATHAM%20🚀&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Digital%20Architect%20•%20AI%20Wizard%20•%20Cloud%20Native%20Developer&descAlignY=51&descAlign=50)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=WELCOME%20TO%20MY%20REALM&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20•%20Web%20Developer%20•%20Bug%20Hunter%20Extraordinaire&descAlignY=51&descAlign=50)</div>
 
 <div align="center">
+  
+```ascii
+██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗
+██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗ ████║
+██████╔╝██████╔╝███████║   ██║   ███████║███████║██╔████╔██║
+██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╔╝██║
+██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%8C%9F+Welcome+to+my+Digital+Universe;%F0%9F%94%A5+Crafting+the+Future+with+Code;%E2%9A%A1+From+Nepal+to+the+Cloud;%F0%9F%9A%80+Building+AI-Powered+Dreams)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=hipratham&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/hipratham?style=for-the-badge&color=FF6B6B&labelColor=000000)](https://github.com/hipratham)
-[![GitHub stars](https://img.shields.io/github/stars/hipratham?style=for-the-badge&color=45B7D1&labelColor=000000)](https://github.com/hipratham)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%94%8D+QA+Engineer+%26+Web+Developer;%F0%9F%90%9B+Bug+Hunter+from+Nepal+%F0%9F%8F%94%EF%B8%8F;%E2%9A%A1+Turning+Bugs+into+Features+since+2020;%F0%9F%9A%80+Currently+Seeking+QA+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+## <div align="center">🎯 **QA ENGINEER & WEB DEVELOPER** 🎯</div>
+
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td width="50%" valign="top">
 
-## 🎯 **WHO AM I?**
+### 🔍 **TESTING EXPERTISE**
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  languages: string[];
-  currentlyLearning: string[];
-  funFact: string;
-}
-
-const pratham: Developer = {
-  name: "Pratham",
-  role: "Full-Stack Developer & AI Enthusiast",
-  location: "Nepal 🏔️",
-  languages: ["Python", "JavaScript", "PHP", "Go"],
-  currentlyLearning: ["AWS", "Kubernetes", "Machine Learning"],
-  funFact: "I debug faster than I can explain bugs! 🐛⚡"
-};
+```python
+class QAEngineer:
+    def __init__(self):
+        self.name = "Pratham"
+        self.role = "QA Engineer & Web Developer"
+        self.location = "Nepal 🏔️"
+        self.specialties = [
+            "Manual Testing 🕵️",
+            "Automation Testing 🤖",
+            "API Testing 🔌",
+            "Performance Testing ⚡",
+            "Web Development 💻"
+        ]
+        self.job_status = "Actively Seeking QA Roles! 🎯"
+    
+    def test_mindset(self):
+        return "If it can break, I'll find how! 💥"
+    
+    def daily_mission(self):
+        return [
+            "Hunt bugs like a detective 🔍",
+            "Write test cases that matter 📝",
+            "Automate repetitive tasks 🤖",
+            "Build quality web apps 🌐",
+            "Learn new testing tools 📚"
+        ]
 ```
 
-### 🚀 **CURRENT ADVENTURES**
-- 🌩️ Mastering **AWS Cloud Architecture**
-- 🤖 Building **AI-powered applications**
-- 🛠️ Diving deep into **DevOps & Automation**
-- 📱 Creating **responsive web experiences**
+### 🛠️ **TESTING ARSENAL**
+- **Manual Testing**: Web, Mobile, API
+- **Automation**: Selenium, Cypress, Playwright
+- **API Testing**: Postman, REST Assured
+- **Performance**: JMeter, LoadRunner
+- **Bug Tracking**: Jira, Bugzilla, Azure DevOps
 
 </td>
 <td width="50%" valign="top">
 
-## 📊 **GITHUB ANALYTICS**
+### 🌐 **WEB DEVELOPMENT SKILLS**
 
-<div align="center">
+```javascript
+const webDeveloper = {
+    frontend: {
+        languages: ["HTML5", "CSS3", "JavaScript", "PHP"],
+        frameworks: ["React", "Vue.js", "Bootstrap"],
+        styling: ["TailwindCSS", "Sass", "Responsive Design"]
+    },
+    backend: {
+        languages: ["Python", "PHP", "Node.js"],
+        frameworks: ["Django", "Flask", "Express.js"],
+        databases: ["MySQL", "MongoDB", "PostgreSQL"]
+    },
+    testing: {
+        tools: ["Jest", "Mocha", "Selenium", "Cypress"],
+        types: ["Unit", "Integration", "E2E", "API"]
+    },
+    currentlyLearning: ["AWS", "DevOps", "Test Automation"]
+};
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hipratham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10)
+console.log("Ready to ensure quality! 🚀");
+```
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hipratham&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=45B7D1&currStreakLabel=4ECDC4&border_radius=10)
-
-</div>
+### 🎯 **CAREER OBJECTIVE**
+**Seeking QA Engineer positions** where I can combine my testing expertise with web development skills to deliver bulletproof software!
 
 </td>
 </tr>
@@ -67,16 +96,93 @@ const pratham: Developer = {
 
 ---
 
-## <div align="center">🛠️ **TECH ARSENAL** 🛠️</div>
+## <div align="center">🎮 **INTERACTIVE ZONE - PLAY WHILE YOU'RE HERE!** 🎮</div>
 
 <div align="center">
 
-### **💻 Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🕹️ **MINI GAMES FOR VISITORS**
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🎯 **Bug Hunt Challenge**
+```
+🐛 Find the bug in this code:
+
+function calculateAge(birthYear) {
+    const currentYear = 2024;
+    return currentYear - birthYear;
+}
+
+// Hint: What about leap years? 🤔
+```
+**Answer**: Missing validation for future birth years!
+
+</td>
+<td width="33%">
+
+#### 🧩 **QA Riddle**
+```
+I exist when code is written,
+I hide in plain sight,
+I cause users frustration,
+But make testers delight.
+What am I?
+
+🤔 Think you know?
+```
+**Answer**: A Bug! 🐛
+
+</td>
+<td width="33%">
+
+#### 🎲 **Random Test Case Generator**
+```javascript
+const testCases = [
+    "Test with empty input ⚪",
+    "Test with special characters !@#$",
+    "Test with maximum length 📏", 
+    "Test with negative numbers ➖",
+    "Test with SQL injection 💉"
+];
+
+// Click refresh to get a new test case!
+```
+
+</td>
+</tr>
+</table>
+
+### 🏆 **INTERACTIVE TESTING QUIZ**
+> **Question**: What's the difference between Smoke Testing and Sanity Testing?
+> 
+> **A)** Smoke is broader, Sanity is narrow-focused ✅  
+> **B)** They're the same thing  
+> **C)** Sanity is broader, Smoke is narrow-focused  
+> **D)** Only done by automation  
+
+</div>
+
+---
+
+## <div align="center">🛠️ **TECH STACK & TOOLS** 🛠️</div>
+
+<div align="center">
+
+### **🔍 QA & Testing Tools**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-DC143C?style=for-the-badge&logo=testing-library&logoColor=white)
+
+### **💻 Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **🚀 Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -84,63 +190,46 @@ const pratham: Developer = {
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **☁️ Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### **🗄️ Databases**
+### **🗄️ Databases & Cloud**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **🔧 Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## <div align="center">📈 **CODING JOURNEY** 📈</div>
+## <div align="center">📊 **GITHUB INSIGHTS** 📊</div>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hipratham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hipratham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&border_radius=10)
 
-</td>
-<td width="50%">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hipratham&theme=tokyo-night&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true&border_radius=10)
-
-</td>
-</tr>
-</table>
+![GitHub Streak](https://streak-stats.demolab.com?user=hipratham&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=45B7D1&currStreakLabel=4ECDC4&border_radius=10)
 
 ### 🏆 **ACHIEVEMENTS**
-![Trophy](https://github-profile-trophy.vercel.app/?username=hipratham&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=10&margin-h=10)
+![Trophy](https://github-profile-trophy.vercel.app/?username=hipratham&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=5&margin-h=5)
 
 </div>
 
 ---
 
-## <div align="center">🌐 **CONNECT WITH ME** 🌐</div>
+## <div align="center">🌐 **LET'S CONNECT & COLLABORATE** 🌐</div>
 
 <div align="center">
 
+### 📬 **OPEN FOR QA OPPORTUNITIES**
+
 <a href="https://prathamrm.com.np" target="_blank">
-  <img src="https://img.shields.io/badge/🌍_Portfolio-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/🌍_Portfolio-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000000" height="45"/>
 </a>
 <a href="mailto:itss.pratham24@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/📧_HIRE_ME-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000" height="45"/>
 </a>
+
 <a href="https://www.linkedin.com/in/pratham-r-55060327a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
@@ -158,88 +247,72 @@ const pratham: Developer = {
 
 ---
 
-## <div align="center">🎨 **DEVELOPER VIBES** 🎨</div>
+## <div align="center">🎨 **FUN DEVELOPER ZONE** 🎨</div>
 
 <div align="center">
+
+### 🎭 **QA HUMOR CORNER**
 
 ```javascript
-class LifePhilosophy {
-  constructor() {
-    this.motto = "Code with passion, debug with patience! 🚀";
-    this.fuel = ["☕ Coffee", "🍕 Pizza", "🎧 Lo-fi beats"];
-    this.workflow = {
-      morning: "Check GitHub notifications 📱",
-      afternoon: "Build something awesome 💻",
-      evening: "Learn new tech 📚",
-      night: "Debug until 3 AM 🌙"
-    };
-  }
-  
-  getRandomFact() {
-    const facts = [
-      "I speak Python fluently 🐍",
-      "My code commits tell better stories than my diary 📖",
-      "I turn bugs into features since 2020 🐛✨",
-      "Stack Overflow is my second home 🏠",
-      "I dream in JSON format 💤"
-    ];
-    return facts[Math.floor(Math.random() * facts.length)];
-  }
+// A QA Engineer's daily life
+class QALife {
+    constructor() {
+        this.motto = "It's not a bug, it's an undocumented feature! 😄";
+        this.favoritePhrase = "Works on my machine! 🤷‍♂️";
+        this.superpower = "Breaking things that 'should work' 💥";
+    }
+    
+    qaJokes() {
+        return [
+            "99 bugs in the code, 99 bugs... fix one bug, compile again, 117 bugs in the code! 🐛",
+            "A QA engineer walks into a bar. Orders 1 beer. Orders 0 beers. Orders -1 beers. Orders 99999999 beers. 🍺",
+            "Why do QA engineers make great detectives? They always find what's missing! 🕵️",
+            "I don't always test my code, but when I do, I do it in production! 😱"
+        ];
+    }
 }
 
-const developer = new LifePhilosophy();
-console.log(developer.getRandomFact());
+const qaEngineer = new QALife();
+console.log("Quality is not an accident! 🎯");
 ```
 
-</div>
+### 🔥 **CURRENT MISSION**
+> **"Seeking QA Engineer roles where I can put my bug-hunting skills to work!**  
+> **Ready to ensure your software is bulletproof! 🛡️"**
 
----
-
-<div align="center">
-
-### 💫 **"Building the future, one commit at a time!"** 💫
-
-### 📊 **WEEKLY DEVELOPMENT BREAKDOWN**
-
-```text
-Python       ████████████████████████▓   95.2%
-JavaScript   ██████████████████████▓░░   87.3%
-DevOps       █████████████████▓░░░░░░░   68.4%
-AWS          ████████████████▓░░░░░░░░   64.7%
-Design       ████████████▓░░░░░░░░░░░░   48.9%
+### 📈 **TESTING PHILOSOPHY**
+```
+🎯 Test Early, Test Often
+🔍 Question Everything  
+🐛 Every Bug is a Learning Opportunity
+⚡ Quality is Everyone's Responsibility
+🚀 Automation Enhances, Never Replaces, Manual Testing
 ```
 
 ---
 
-### 🌟 **LATEST PROJECTS SHOWCASE**
+### 🎪 **VISITOR SURPRISE**
+<details>
+<summary>🎁 Click here for a special message!</summary>
 
-<table>
-<tr>
-<td width="33%">
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hipratham&repo=ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10"/>
-</div>
-</td>
-<td width="33%">
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hipratham&repo=cloud-deploy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10"/>
-</div>
-</td>
-<td width="33%">
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hipratham&repo=web-scraper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10"/>
-</div>
-</td>
-</tr>
-</table>
+```
+ ╔══════════════════════════════════════╗
+ ║  🎉 CONGRATULATIONS! 🎉              ║
+ ║                                      ║
+ ║  You found the hidden Easter egg!    ║
+ ║  You have the curiosity of a great   ║
+ ║  QA Engineer! 🕵️‍♂️                    ║
+ ║                                      ║
+ ║  Thanks for checking out my profile! ║
+ ║  Let's connect and build quality     ║
+ ║  software together! 🤝               ║
+ ╚══════════════════════════════════════╝
+```
+
+</details>
 
 ---
 
-### 🎵 **CODING SOUNDTRACK**
-*Currently vibing to:* **Synthwave • Lo-fi Hip Hop • Ambient Electronic**
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:45B7D1,100:FF6B6B&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:45B7D1,100:FF6B6B&height=120&section=footer&text=Let's%20Build%20Quality%20Software%20Together!%20🚀&fontSize=20&fontColor=fff&animation=twinkling"/>
 
 </div>
