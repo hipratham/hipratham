@@ -108,17 +108,7 @@ console.log("Ready to ensure quality! 🚀");
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
 
-#### 🎯 **TESTING EXCELLENCE**
-```
-✅ 4+ Years Experience
-✅ Manual & Automation Expert
-✅ Bug Detection Rate: 95%+
-✅ Test Case Coverage: 100%
-```
-
-</td>
 <td width="33%" align="center">
 
 #### 🚀 **TECHNICAL VERSATILITY**
