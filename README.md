@@ -59,8 +59,8 @@ class QAEngineer:
 
 ### 🛠️ **TESTING ARSENAL**
 - **Manual Testing**: Web, Mobile, API
-- **Automation**: Selenium, Cypress, Playwright
-- **API Testing**: Postman, REST Assured
+- **Automation**: Cypress, Playwright
+- **API Testing**: Postman
 - **Performance**: JMeter, K6
 - **Bug Tracking**: Jira
 
@@ -116,7 +116,6 @@ console.log("Ready to ensure quality! 🚀");
 ✅ Full-Stack Understanding
 ✅ API Testing Specialist  
 ✅ Performance Optimization
-✅ CI/CD Integration
 ```
 
 </td>
