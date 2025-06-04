@@ -1,21 +1,14 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=300&section=header&text=WELCOME%20TO%20MY%20REALM&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20•%20Web%20Developer%20•%20Bug%20Hunter%20Extraordinaire&descAlignY=51&descAlign=50)</div>
-
+<div align="center">Show Image</div>
 <div align="center">
-  
-```ascii
+ascii
 ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗
 ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗ ████║
 ██████╔╝██████╔╝███████║   ██║   ███████║███████║██╔████╔██║
 ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╔╝██║
 ██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%94%8D+QA+Engineer+%26+Web+Developer;%F0%9F%90%9B+Bug+Hunter+from+Nepal+%F0%9F%8F%94%EF%B8%8F;%E2%9A%A1+Turning+Bugs+into+Features+since+2020;%F0%9F%9A%80+Currently+Seeking+QA+Opportunities)](https://git.io/typing-svg)
-
+Show Image
 </div>
-
----
 
 ## <div align="center">🎯 **QA ENGINEER & WEB DEVELOPER** 🎯</div>
 
