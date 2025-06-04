@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>Show Image</h1>
-</div>
+  <h1 style="font-size: 36px; font-weight: bold; color: #4ECDC4;">QA ENGINEER & WEB DEVELOPER</h1>
 
-<div align="center">
-  <pre style="font-family: monospace; font-size: 12px; line-height: 1.4em;">
+  <pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.4em; color: #ffffff; background-color: #111; padding: 10px; border-radius: 10px; display: inline-block; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);">
 ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗
 ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗ ████║
 ██████╔╝██████╔╝███████║   ██║   ███████║███████║██╔████╔██║
@@ -11,8 +9,14 @@
 ██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
   </pre>
-  <h2>Show Image</h2>
+
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+       width="280" 
+       height="280" 
+       style="border-radius: 20px; margin-top: 20px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);" 
+       alt="QA GIF"/>
 </div>
+
 
 <h2 align="center">🎯 <strong>QA ENGINEER & WEB DEVELOPER</strong> 🎯</h2>
 
