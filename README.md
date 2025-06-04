@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 36px; font-weight: bold; color: #4ECDC4;">QA ENGINEER & WEB DEVELOPER</h1>
+
 
   <pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.4em; color: #ffffff; background-color: #111; padding: 10px; border-radius: 10px; display: inline-block; box-shadow: 0px 0px 10px rgba(0,0,0,0.5);">
 ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗
@@ -10,11 +10,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
   </pre>
 
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
-       width="280" 
-       height="280" 
-       style="border-radius: 20px; margin-top: 20px; box-shadow: 0px 4px 20px rgba(0,0,0,0.4);" 
-       alt="QA GIF"/>
+ 
 </div>
 
 
