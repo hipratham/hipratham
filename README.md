@@ -82,7 +82,7 @@ const webDeveloper = {
         databases: ["MySQL", "MongoDB", "PostgreSQL"]
     },
     testing: {
-        tools: ["Jest", "Mocha", "Selenium", "Cypress"],
+        tools: [ "Playwright", "Cypress"],
         types: ["Unit", "Integration", "E2E", "API"]
     },
     currentlyLearning: ["AWS", "DevOps", "Test Automation"]
